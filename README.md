@@ -18,3 +18,10 @@ Mengingat step yang sedikit lebih panjang dibanding membuat Service Account, sil
 Pastikan env ```drive.folderId``` disesuaikan dengan Folder Drive yang sudah dishare ke Service Account dan ```Akses umum``` / ```General access``` diset ke ```Siapa saja yang memiliki link``` / ```Anyone with the link```
 
 ![Drive Permission](/doc/pic/drive-access-permission.png)
+
+# Screenshot Aplikasi
+Upload File
+![Drive Upload](/doc/pic/drive-upload.png)
+
+File Terupload
+![Drive File Lists](/doc/pic/drive-file-lists.png)
